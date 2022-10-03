@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="34" passed="26" failed="8" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-02T23:16:59 EDT" name="Default suite" finished-at="2022-10-02T23:37:05 EDT" duration-ms="1205978">
+    <groups>
+    </groups>
+    <test started-at="2022-10-02T23:16:59 EDT" name="Default test" finished-at="2022-10-02T23:37:05 EDT" duration-ms="1205978">
+      <class name="com.salesforce.automationScripts.TestScripts">
+        <test-method is-config="true" signature="setupBeforeTest()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:16:59 EDT" name="setupBeforeTest" finished-at="2022-10-02T23:17:02 EDT" duration-ms="2659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeTest -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:17:02 EDT" name="beforeMethod1" finished-at="2022-10-02T23:17:24 EDT" duration-ms="21298" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.LogoutTC09() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="LogoutTC09()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:17:24 EDT" name="LogoutTC09" finished-at="2022-10-02T23:17:48 EDT" duration-ms="24567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutTC09 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:17:48 EDT" name="afterMethod" finished-at="2022-10-02T23:17:57 EDT" duration-ms="8411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:17:57 EDT" name="beforeMethod1" finished-at="2022-10-02T23:18:01 EDT" duration-ms="4433" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.cancelCreateViewContactTC31() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="cancelCreateViewContactTC31()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:18:01 EDT" name="cancelCreateViewContactTC31" finished-at="2022-10-02T23:18:36 EDT" duration-ms="34835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cancelCreateViewContactTC31 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:18:36 EDT" name="afterMethod" finished-at="2022-10-02T23:18:44 EDT" duration-ms="8559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:18:44 EDT" name="beforeMethod1" finished-at="2022-10-02T23:18:51 EDT" duration-ms="7018" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.checkErrorMessageTC30() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="checkErrorMessageTC30()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:18:51 EDT" name="checkErrorMessageTC30" finished-at="2022-10-02T23:19:18 EDT" duration-ms="26877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkErrorMessageTC30 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:19:18 EDT" name="afterMethod" finished-at="2022-10-02T23:19:27 EDT" duration-ms="8711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:19:27 EDT" name="beforeMethod1" finished-at="2022-10-02T23:19:33 EDT" duration-ms="5613" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.clickLeadTC20() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="clickLeadTC20()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:19:33 EDT" name="clickLeadTC20" finished-at="2022-10-02T23:19:57 EDT" duration-ms="24670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLeadTC20 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:19:57 EDT" name="afterMethod" finished-at="2022-10-02T23:20:06 EDT" duration-ms="8550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:20:06 EDT" name="beforeMethod1" finished-at="2022-10-02T23:20:12 EDT" duration-ms="5777" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.createAccountTC10() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="createAccountTC10()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:20:12 EDT" name="createAccountTC10" finished-at="2022-10-02T23:20:42 EDT" duration-ms="30581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccountTC10 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:20:42 EDT" name="afterMethod" finished-at="2022-10-02T23:20:51 EDT" duration-ms="8868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:20:51 EDT" name="beforeMethod1" finished-at="2022-10-02T23:20:57 EDT" duration-ms="5823" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.createNewContactTC25() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="createNewContactTC25()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:20:57 EDT" name="createNewContactTC25" finished-at="2022-10-02T23:21:29 EDT" duration-ms="31759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContactTC25 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:21:29 EDT" name="afterMethod" finished-at="2022-10-02T23:21:37 EDT" duration-ms="8606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:21:37 EDT" name="beforeMethod1" finished-at="2022-10-02T23:21:45 EDT" duration-ms="7912" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.createNewViewContactTC26() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="createNewViewContactTC26()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:21:45 EDT" name="createNewViewContactTC26" finished-at="2022-10-02T23:22:04 EDT" duration-ms="18260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewViewContactTC26 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:22:04 EDT" name="afterMethod" finished-at="2022-10-02T23:22:12 EDT" duration-ms="8256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:22:12 EDT" name="beforeMethod1" finished-at="2022-10-02T23:22:18 EDT" duration-ms="5715" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.createOpportunityTC16() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="createOpportunityTC16()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:22:18 EDT" name="createOpportunityTC16" finished-at="2022-10-02T23:22:36 EDT" duration-ms="18373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOpportunityTC16 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:22:36 EDT" name="afterMethod" finished-at="2022-10-02T23:22:44 EDT" duration-ms="8221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:22:44 EDT" name="beforeMethod1" finished-at="2022-10-02T23:22:48 EDT" duration-ms="3447" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.createViewTC11() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="createViewTC11()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:22:48 EDT" name="createViewTC11" finished-at="2022-10-02T23:23:03 EDT" duration-ms="15614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createViewTC11 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:23:03 EDT" name="afterMethod" finished-at="2022-10-02T23:23:12 EDT" duration-ms="8350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:23:12 EDT" name="beforeMethod1" finished-at="2022-10-02T23:23:15 EDT" duration-ms="3672" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.defaultViewTC22() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="defaultViewTC22()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:23:15 EDT" name="defaultViewTC22" finished-at="2022-10-02T23:23:27 EDT" duration-ms="12105" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Cannot locate option with value: Recently Viewed Leads
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-LI9TG70', ip: '192.168.1.199', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: unknown]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Cannot locate option with value: Recently Viewed Leads
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-LI9TG70', ip: '192.168.1.199', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: unknown
+at org.openqa.selenium.support.ui.Select.findOptionsByValue(Select.java:287)
+at org.openqa.selenium.support.ui.Select.selectByValue(Select.java:190)
+at com.salesforce.base.BaseAutomation.selectElement(BaseAutomation.java:246)
+at com.salesforce.automationScripts.TestScripts.defaultViewTC22(TestScripts.java:627)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- defaultViewTC22 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:23:27 EDT" name="afterMethod" finished-at="2022-10-02T23:23:36 EDT" duration-ms="8367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:23:36 EDT" name="beforeMethod1" finished-at="2022-10-02T23:23:40 EDT" duration-ms="3767" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.editViewTC12() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="editViewTC12()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:23:40 EDT" name="editViewTC12" finished-at="2022-10-02T23:23:54 EDT" duration-ms="13930" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Cannot locate option with value: NewName5
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-LI9TG70', ip: '192.168.1.199', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: unknown]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Cannot locate option with value: NewName5
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-LI9TG70', ip: '192.168.1.199', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: unknown
+at org.openqa.selenium.support.ui.Select.findOptionsByValue(Select.java:287)
+at org.openqa.selenium.support.ui.Select.selectByValue(Select.java:190)
+at com.salesforce.base.BaseAutomation.selectElement(BaseAutomation.java:246)
+at com.salesforce.automationScripts.TestScripts.editViewTC12(TestScripts.java:317)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editViewTC12 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:23:54 EDT" name="afterMethod" finished-at="2022-10-02T23:24:04 EDT" duration-ms="10544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:24:04 EDT" name="beforeMethod1" finished-at="2022-10-02T23:24:08 EDT" duration-ms="4034" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.leadDropDownTC21() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="leadDropDownTC21()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:24:08 EDT" name="leadDropDownTC21" finished-at="2022-10-02T23:24:20 EDT" duration-ms="11541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- leadDropDownTC21 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:24:20 EDT" name="afterMethod" finished-at="2022-10-02T23:24:28 EDT" duration-ms="8362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:24:28 EDT" name="beforeMethod1" finished-at="2022-10-02T23:24:31 EDT" duration-ms="3373" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.leadDropDownTC23() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="leadDropDownTC23()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:24:31 EDT" name="leadDropDownTC23" finished-at="2022-10-02T23:24:46 EDT" duration-ms="15014" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Cannot locate option with value: Today's Leads
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-LI9TG70', ip: '192.168.1.199', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: unknown]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Cannot locate option with value: Today's Leads
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-LI9TG70', ip: '192.168.1.199', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: unknown
+at org.openqa.selenium.support.ui.Select.findOptionsByValue(Select.java:287)
+at org.openqa.selenium.support.ui.Select.selectByValue(Select.java:190)
+at com.salesforce.base.BaseAutomation.selectElement(BaseAutomation.java:246)
+at com.salesforce.automationScripts.TestScripts.leadDropDownTC23(TestScripts.java:668)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- leadDropDownTC23 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:24:46 EDT" name="afterMethod" finished-at="2022-10-02T23:24:55 EDT" duration-ms="8370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:24:55 EDT" name="beforeMethod1" finished-at="2022-10-02T23:24:58 EDT" duration-ms="3090" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.mergeAccountTC13() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="mergeAccountTC13()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:24:58 EDT" name="mergeAccountTC13" finished-at="2022-10-02T23:25:18 EDT" duration-ms="20430" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='cid1']"}
+  (Session info: chrome=105.0.5195.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-LI9TG70', ip: '192.168.1.199', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e88b16e12642e6fe81610aa3df1736a0, findElement {using=xpath, value=//input[@id='cid1']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:60417}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60417/devtoo..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e88b16e12642e6fe81610aa3df1736a0]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='cid1']"}
+  (Session info: chrome=105.0.5195.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-LI9TG70', ip: '192.168.1.199', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e88b16e12642e6fe81610aa3df1736a0, findElement {using=xpath, value=//input[@id='cid1']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:60417}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60417/devtoo..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e88b16e12642e6fe81610aa3df1736a0
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:483)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
+at com.salesforce.automationScripts.TestScripts.mergeAccountTC13(TestScripts.java:374)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mergeAccountTC13 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:25:18 EDT" name="afterMethod" finished-at="2022-10-02T23:25:29 EDT" duration-ms="10508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:25:29 EDT" name="beforeMethod1" finished-at="2022-10-02T23:25:32 EDT" duration-ms="3601" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.myContactsViewTC28() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="myContactsViewTC28()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:25:32 EDT" name="myContactsViewTC28" finished-at="2022-10-02T23:25:52 EDT" duration-ms="19287" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Cannot locate option with value: All Contacts
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-LI9TG70', ip: '192.168.1.199', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: unknown]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Cannot locate option with value: All Contacts
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-LI9TG70', ip: '192.168.1.199', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: unknown
+at org.openqa.selenium.support.ui.Select.findOptionsByValue(Select.java:287)
+at org.openqa.selenium.support.ui.Select.selectByValue(Select.java:190)
+at com.salesforce.base.BaseAutomation.selectElement(BaseAutomation.java:246)
+at com.salesforce.automationScripts.TestScripts.myContactsViewTC28(TestScripts.java:805)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myContactsViewTC28 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:25:52 EDT" name="afterMethod" finished-at="2022-10-02T23:26:02 EDT" duration-ms="10711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:26:02 EDT" name="beforeMethod1" finished-at="2022-10-02T23:26:06 EDT" duration-ms="3666" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.newLeadTC24() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="newLeadTC24()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:26:06 EDT" name="newLeadTC24" finished-at="2022-10-02T23:26:23 EDT" duration-ms="17082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newLeadTC24 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:26:23 EDT" name="afterMethod" finished-at="2022-10-02T23:26:34 EDT" duration-ms="10647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:26:34 EDT" name="beforeMethod1" finished-at="2022-10-02T23:26:38 EDT" duration-ms="4007" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.opporDropDownTC15() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="opporDropDownTC15()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:26:38 EDT" name="opporDropDownTC15" finished-at="2022-10-02T23:26:55 EDT" duration-ms="17479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opporDropDownTC15 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:26:55 EDT" name="afterMethod" finished-at="2022-10-02T23:27:04 EDT" duration-ms="8197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:27:04 EDT" name="beforeMethod1" finished-at="2022-10-02T23:27:06 EDT" duration-ms="2953" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.saveAndNewContactTC32() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="saveAndNewContactTC32()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:27:06 EDT" name="saveAndNewContactTC32" finished-at="2022-10-02T23:27:25 EDT" duration-ms="18533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saveAndNewContactTC32 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:27:25 EDT" name="afterMethod" finished-at="2022-10-02T23:27:33 EDT" duration-ms="8324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:27:33 EDT" name="beforeMethod1" finished-at="2022-10-02T23:27:39 EDT" duration-ms="5681" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.selectDeveloperConsoleTC08() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="selectDeveloperConsoleTC08()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:27:39 EDT" name="selectDeveloperConsoleTC08" finished-at="2022-10-02T23:27:50 EDT" duration-ms="10880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectDeveloperConsoleTC08 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:27:50 EDT" name="afterMethod" finished-at="2022-10-02T23:27:58 EDT" duration-ms="8379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:27:58 EDT" name="beforeMethod1" finished-at="2022-10-02T23:28:02 EDT" duration-ms="3684" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.stuckOpportunityTC18() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="stuckOpportunityTC18()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:28:02 EDT" name="stuckOpportunityTC18" finished-at="2022-10-02T23:28:19 EDT" duration-ms="16766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stuckOpportunityTC18 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:28:19 EDT" name="afterMethod" finished-at="2022-10-02T23:28:27 EDT" duration-ms="8376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:28:27 EDT" name="beforeMethod1" finished-at="2022-10-02T23:28:31 EDT" duration-ms="4140" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.testOpportunityPipeLineReportTC17() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="testOpportunityPipeLineReportTC17()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:28:31 EDT" name="testOpportunityPipeLineReportTC17" finished-at="2022-10-02T23:28:52 EDT" duration-ms="20544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOpportunityPipeLineReportTC17 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:28:52 EDT" name="afterMethod" finished-at="2022-10-02T23:29:00 EDT" duration-ms="8241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:29:00 EDT" name="beforeMethod1" finished-at="2022-10-02T23:29:04 EDT" duration-ms="3656" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.testQuarterlySummaryReportTC19() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="testQuarterlySummaryReportTC19()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:29:04 EDT" name="testQuarterlySummaryReportTC19" finished-at="2022-10-02T23:29:14 EDT" duration-ms="10753" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Cannot locate option with value: Current FY
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-LI9TG70', ip: '192.168.1.199', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: unknown]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Cannot locate option with value: Current FY
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-LI9TG70', ip: '192.168.1.199', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: unknown
+at org.openqa.selenium.support.ui.Select.findOptionsByValue(Select.java:287)
+at org.openqa.selenium.support.ui.Select.selectByValue(Select.java:190)
+at com.salesforce.base.BaseAutomation.selectElement(BaseAutomation.java:246)
+at com.salesforce.automationScripts.TestScripts.testQuarterlySummaryReportTC19(TestScripts.java:563)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testQuarterlySummaryReportTC19 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:29:14 EDT" name="afterMethod" finished-at="2022-10-02T23:29:23 EDT" duration-ms="8339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:29:23 EDT" name="beforeMethod1" finished-at="2022-10-02T23:29:26 EDT" duration-ms="3308" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.verifyNameTC33() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="verifyNameTC33()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:29:26 EDT" name="verifyNameTC33" finished-at="2022-10-02T23:29:40 EDT" duration-ms="14111" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [User: mamta selenium2022 ~ Salesforce - Developer Edition] but found [User: mamta updated ~ Salesforce - Developer Edition]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [User: mamta selenium2022 ~ Salesforce - Developer Edition] but found [User: mamta updated ~ Salesforce - Developer Edition]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at com.salesforce.automationScripts.TestScripts.verifyNameTC33(TestScripts.java:952)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNameTC33 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:29:40 EDT" name="afterMethod" finished-at="2022-10-02T23:29:51 EDT" duration-ms="10507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:29:51 EDT" name="beforeMethod1" finished-at="2022-10-02T23:29:54 EDT" duration-ms="3223" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.verifyNameTC34() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="verifyNameTC34()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:29:54 EDT" name="verifyNameTC34" finished-at="2022-10-02T23:30:27 EDT" duration-ms="33068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNameTC34 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:30:27 EDT" name="afterMethod" finished-at="2022-10-02T23:30:35 EDT" duration-ms="8205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:30:35 EDT" name="beforeMethod1" finished-at="2022-10-02T23:30:39 EDT" duration-ms="3562" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.verifyRecentlyCreatedContactPageTC27() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="verifyRecentlyCreatedContactPageTC27()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:30:39 EDT" name="verifyRecentlyCreatedContactPageTC27" finished-at="2022-10-02T23:30:54 EDT" duration-ms="15234" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Cannot locate option with value: Recently Created
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-LI9TG70', ip: '192.168.1.199', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: unknown]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Cannot locate option with value: Recently Created
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-LI9TG70', ip: '192.168.1.199', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: unknown
+at org.openqa.selenium.support.ui.Select.findOptionsByValue(Select.java:287)
+at org.openqa.selenium.support.ui.Select.selectByValue(Select.java:190)
+at com.salesforce.base.BaseAutomation.selectElement(BaseAutomation.java:246)
+at com.salesforce.automationScripts.TestScripts.verifyRecentlyCreatedContactPageTC27(TestScripts.java:783)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRecentlyCreatedContactPageTC27 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:30:54 EDT" name="afterMethod" finished-at="2022-10-02T23:31:02 EDT" duration-ms="8433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:31:02 EDT" name="beforeMethod1" finished-at="2022-10-02T23:31:07 EDT" duration-ms="4362" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.viewContactTC29() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="viewContactTC29()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:31:07 EDT" name="viewContactTC29" finished-at="2022-10-02T23:31:37 EDT" duration-ms="30350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewContactTC29 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:31:37 EDT" name="afterMethod" finished-at="2022-10-02T23:31:47 EDT" duration-ms="9576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:31:47 EDT" name="beforeMethod1" finished-at="2022-10-02T23:31:53 EDT" duration-ms="6364" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.emptyPasswordTC1() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="emptyPasswordTC1()[pri:1, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:31:53 EDT" name="emptyPasswordTC1" finished-at="2022-10-02T23:31:58 EDT" duration-ms="4709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyPasswordTC1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:31:58 EDT" name="afterMethod" finished-at="2022-10-02T23:32:07 EDT" duration-ms="8728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:32:07 EDT" name="beforeMethod1" finished-at="2022-10-02T23:32:11 EDT" duration-ms="4667" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.loginSuccessTC2() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="loginSuccessTC2()[pri:2, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:32:11 EDT" name="loginSuccessTC2" finished-at="2022-10-02T23:32:24 EDT" duration-ms="12656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSuccessTC2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:32:24 EDT" name="afterMethod" finished-at="2022-10-02T23:32:33 EDT" duration-ms="8684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:32:33 EDT" name="beforeMethod1" finished-at="2022-10-02T23:32:38 EDT" duration-ms="5047" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.logoutSuccessTC3() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="logoutSuccessTC3()[pri:2, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:32:38 EDT" name="logoutSuccessTC3" finished-at="2022-10-02T23:33:02 EDT" depends-on-methods="com.salesforce.automationScripts.TestScripts.loginSuccessTC2, com.salesforce.automationScripts.TestScripts.emptyPasswordTC1" duration-ms="23940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutSuccessTC3 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:33:02 EDT" name="afterMethod" finished-at="2022-10-02T23:33:10 EDT" duration-ms="8027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:33:10 EDT" name="beforeMethod1" finished-at="2022-10-02T23:33:17 EDT" duration-ms="7634" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.forgotPasswordTC4A() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="forgotPasswordTC4A()[pri:3, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:33:17 EDT" name="forgotPasswordTC4A" finished-at="2022-10-02T23:33:21 EDT" duration-ms="3578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPasswordTC4A -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:33:21 EDT" name="afterMethod" finished-at="2022-10-02T23:33:30 EDT" duration-ms="9534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:33:30 EDT" name="beforeMethod1" finished-at="2022-10-02T23:33:38 EDT" duration-ms="7827" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.invalidLoginTC4B() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="invalidLoginTC4B()[pri:4, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:33:38 EDT" name="invalidLoginTC4B" finished-at="2022-10-02T23:33:44 EDT" duration-ms="5991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginTC4B -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:33:44 EDT" name="afterMethod" finished-at="2022-10-02T23:33:53 EDT" duration-ms="8561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:33:53 EDT" name="beforeMethod1" finished-at="2022-10-02T23:33:57 EDT" duration-ms="4263" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.selectUserMenuTC5() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="selectUserMenuTC5()[pri:5, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:33:57 EDT" name="selectUserMenuTC5" finished-at="2022-10-02T23:34:13 EDT" duration-ms="15662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectUserMenuTC5 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:34:13 EDT" name="afterMethod" finished-at="2022-10-02T23:34:22 EDT" duration-ms="9178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:34:22 EDT" name="beforeMethod1" finished-at="2022-10-02T23:34:26 EDT" duration-ms="4337" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.selectMyProfileTC6() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="selectMyProfileTC6()[pri:6, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:34:26 EDT" name="selectMyProfileTC6" finished-at="2022-10-02T23:35:38 EDT" depends-on-methods="com.salesforce.automationScripts.TestScripts.loginSuccessTC2" duration-ms="71623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectMyProfileTC6 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:35:38 EDT" name="afterMethod" finished-at="2022-10-02T23:35:46 EDT" duration-ms="8352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod1(java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:35:46 EDT" name="beforeMethod1" finished-at="2022-10-02T23:35:54 EDT" duration-ms="7736" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesforce.automationScripts.TestScripts.createAccountReportTC14() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method signature="createAccountReportTC14()[pri:38, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:35:54 EDT" name="createAccountReportTC14" finished-at="2022-10-02T23:36:53 EDT" duration-ms="59202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccountReportTC14 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:36:53 EDT" name="afterMethod" finished-at="2022-10-02T23:37:03 EDT" duration-ms="10125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.salesforce.automationScripts.TestScripts@408d971b]" started-at="2022-10-02T23:37:03 EDT" name="afterTest" finished-at="2022-10-02T23:37:05 EDT" duration-ms="1875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.salesforce.automationScripts.TestScripts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
